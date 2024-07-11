@@ -1,5 +1,4 @@
-package com.example.first_application;
-
+package com.example.first_application.basic;
 public class QuickSortAlgorithm implements SortingAlgorithm{
 
     @Override
