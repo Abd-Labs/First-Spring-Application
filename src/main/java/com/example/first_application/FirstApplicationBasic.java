@@ -9,7 +9,6 @@ import org.springframework.context.ApplicationContext;
 import com.example.first_application.basic.BinarySearchImpl;
 
 
-@SpringBootApplication
 public class FirstApplicationBasic {
 
     private static Logger LOGGER = LoggerFactory.getLogger(FirstApplication.class);
